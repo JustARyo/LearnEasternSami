@@ -1,13 +1,13 @@
 # Eastern Sami
 ## Anarâškielâ - Inari Sami
 ![изображение](https://github.com/JustARyo/LearnEasternSami/assets/31369233/f3d13451-b1a1-46b0-b981-75f7ac9227ce)
-- 📚 Courses, teaching books and videos
+- 📚 [Courses, teaching books and videos](meta/\[Inari\]%20Courses%20etc.md)
 - 🍿 Reading, watching and listening
 
 
 ## Nuõrttsääʹmi - Skolt Sami
 ![изображение](https://github.com/JustARyo/LearnEasternSami/assets/31369233/08f7fb01-3e29-4753-998e-21e8d8102db4)
-- 📚 Courses, teaching books and videos
+- 📚 [Courses, teaching books and videos](meta/\[Skolt\]%20Courses%20etc.md)
 - 🍿 Reading, watching and listening
 
 ## Ӓһкельса̄мь - Akkala Sami
