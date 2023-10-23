@@ -29,7 +29,7 @@
 
 ## Тарьеса̄мя - Ter Sami
 - 📚 [Texts, stories and documented literature](meta/\[Ter\]%20Books%20etc.md)
-- 🧑‍🏫 [Learning materials](meta/\[Inari\]%20Learning%20etc.md)
+- 🧑‍🏫 [Learning materials](meta/\[Ter\]%20Learning%20etc.md)
 
 ![изображение](https://github.com/JustARyo/LearnEasternSami/assets/31369233/df461093-71bf-45dc-9df2-ecd4f8113c47)
 
