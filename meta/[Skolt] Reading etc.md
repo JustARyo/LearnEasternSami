@@ -24,3 +24,15 @@ In: Solt Sami, 🇫🇮 (partly)
 
 ***
 ***
+
+# 🇷🇺 Три выпуска подкаста + статья *Mâʹst jiõm mainsteʹče ääkkain*
+### 🇬🇧 3 episodes + article of the podcast *"Mâʹst jiõm mainsteʹče ääkkain"*
+
+🎙 https://areena.yle.fi/podcastit/1-64005233
+🔗 https://yle.fi/a/3-12664292
+
+![изображение](https://github.com/JustARyo/LearnEasternSami/assets/31369233/32b3216c-f035-4838-80f8-b60d79cffbac)
+![изображение](https://github.com/JustARyo/LearnEasternSami/assets/31369233/bbe46f87-54e2-45b3-b60b-fcb2b89d8d21)
+
+***
+***
