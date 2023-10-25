@@ -7,8 +7,11 @@
 
 
 ## Nuõrttsääʹmi - Skolt Sami
-- 📚 [Courses, teaching books and videos](meta/\[Skolt\]%20Courses%20etc.md)
-- 🍿 [Reading, watching and listening](meta/\[Skolt\]%20Reading%20etc.md)
+- Standard:
+  - 📚 [Courses, teaching books and videos](meta/\[Skolt\]%20Courses%20etc.md)
+  - 🍿 [Reading, watching and listening](meta/\[Skolt\]%20Reading%20etc.md)
+- Notozero:
+  - 🧑‍🏫 [Learning materials](meta/\[Notozero%20Skolt\]%20Learning%20etc.md)
 
 ![изображение](https://github.com/JustARyo/LearnEasternSami/assets/31369233/08f7fb01-3e29-4753-998e-21e8d8102db4)
 
