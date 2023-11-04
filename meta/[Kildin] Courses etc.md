@@ -19,3 +19,38 @@
 
 ***
 ***
+
+# 🟦 Кӣллтса̄мь соа̄гкнэгкь
+### 🇷🇺 Кильдин-саамские словари
+### 🇬🇧 Kildin Sami dictionaries
+
+![изображение](https://github.com/JustARyo/LearnEasternSami/assets/31369233/af7977ea-0edd-497a-927c-cf5eaa750372)
+
+> 🔗 https://slovari.saami.su/
+
+***
+***
+
+# 🇷🇺 Android и Apple приложение о кильдин-саамском языке (довольно бесполезное, но поделиться всё равно стоит)
+### 🇬🇧 Android/Apple app about Kildin Sámi (pretty useless but worth to share)
+
+![изображение](https://github.com/JustARyo/LearnEasternSami/assets/31369233/5ba919fe-3819-45bf-8a35-4f0aacf8e68d)
+
+> 🤖 https://play.google.com/store/apps/details?id=ru.sami_language.twa
+>
+> 🍎 https://apps.apple.com/ru/app/sami-language/id1594848222
+
+***
+***
+
+# 🇷🇺 Серия полезных постов на Unilang в форме самоучителя о **кильдин**-саамском
+### 🇬🇧 A series of useful posts on Unilang in form of self-teaching book about **Kildin** Sámi
+
+**In:** 🇬🇧
+
+![изображение](https://github.com/JustARyo/LearnEasternSami/assets/31369233/1d24486f-9d6a-4d55-92ad-a3edeb59d3bf)
+
+> 🔗 https://forum.unilang.org/viewtopic.php?f=93&t=53352
+
+***
+***
