@@ -50,7 +50,17 @@
 
 ![изображение](https://github.com/JustARyo/LearnEasternSami/assets/31369233/1d24486f-9d6a-4d55-92ad-a3edeb59d3bf)
 
-> 🔗 https://forum.unilang.org/viewtopic.php?f=93&t=53352
+***
+***
+
+# 🇷🇺 Перевод на саамский и обратно при выделении слова (скрипт)
+### 🇬🇧 Script alowing you to translate words from Russian to Kildin Sami and vice versa inside the site
+
+**In:** 🇷🇺
+
+![изображение](https://github.com/JustARyo/LearnEasternSami/assets/31369233/2e94a15b-47b5-4ee9-aa28-ceddb90f5e7d)
+
+> 🔗 https://sanj.oahpa.no/read/
 
 ***
 ***
